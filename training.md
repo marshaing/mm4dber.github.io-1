@@ -12,19 +12,19 @@
 
 <p align="center">
 
-Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-funded training grant to support STEM Education scholars in integrating mixture modeling into their research.
+Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-funded training grant to support STEM Education scholars in integrating mixture modeling into their research.
 
 </p>
 
 ------------------------------------------------------------------------
 
-### Day 1 Training (September 14, 2023): 
+### Day 1 Training (September 14, 2023): Introduction to the Latent Class Analysis (LCA) Model
 
 Preparation: Make sure you have...
 
 #### Learning Outcomes:
 
-1. Fellows will be able to...
+1. Fellows will be introduced to the the LCA model
 
 2. Fellows will be able to...
 
