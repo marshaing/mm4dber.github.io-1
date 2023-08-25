@@ -28,9 +28,10 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
       
 #### Synchronous Activity:
 * [Slide deck here](https://drive.google.com/file/d/1We8VUg92e3yloXGjLZFDWZuKHz63yHm7/view?usp=drive_link)
-* [Workspace here](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing)
+* [Workspace here](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 <a href="https://drive.google.com/file/d/1We8VUg92e3yloXGjLZFDWZuKHz63yHm7/view?usp=drive_link" target="_blank"> CLICK LINK </a>
+
 
 #### Asynchronous Activity:
 **Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) 
