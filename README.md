@@ -15,7 +15,7 @@
 
 - - -
 
-## Training materials page: https://mm4dber.github.io/training
+## Training materials page: https://mm4dber.github.io/training (https://mm4dber.github.io/training)
 
 - - -
 
