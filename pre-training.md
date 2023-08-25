@@ -27,11 +27,11 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
       
 #### Synchronous Activity:
-* Slide deck [here](https://drive.google.com/file/d/1We8VUg92e3yloXGjLZFDWZuKHz63yHm7/view?usp=drive_link)
-* [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing)
+* Slide deck [here](https://drive.google.com/file/d/1We8VUg92e3yloXGjLZFDWZuKHz63yHm7/view?usp=drive_link){target="_blank"}
+* [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing){target="_blank"}
 
 #### Asynchronous Activity:
-**Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) slides]
+**Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) 
 **Activity 2:** Install R/RStudio/MPlus/MplusAutomation
 
  - Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and R Studio.
@@ -41,7 +41,6 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
  - Install packages & practice creating Rproject: Watch these tutorial videos which introduce R & Rstudio and walk through how to install and load packages
  - [HERE - Intro to R video tutorial (Covered in first 7 minutes)](https://drive.google.com/file/d/1jzFAK_bOD2HAjZMyHVG8npYQ0rSOXina/view?usp=drive_link)
-
  - [HERE - Intro to MplusAutomation video tutorial (Covered in first 12 minutes)](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link)
 
 NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio.
