@@ -53,14 +53,18 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
 ### Day 2 (September 1, 2023): Introduction to Mixtures
 
-Synchronous Activity:
--   [Introduction to MplusAutomation]()
--   Slide deck [here](https://.pdf)
+#### Learning Outcomes:
+      1. Identify the advantages of using mixture modeling
+      2. Construct a person-centered research goal in a research topic that you are interested in   
 
-Asynchronous Activity:
--   Complete Part 3 of "Introduction to MplusAutomation": Descriptive Statistics
--   [How to make your R markdown pretty!]()
+**Synchronous Activity:**
+-   Slide deck [here](https://drive.google.com/file/d/1ZsU5MgAqPkFtYG_NXj8cDR01TF9X5ZkI/view?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing)
 
+**Asynchronous Activity:**
+-   Activity 1:  Linking theory to your person-centered research goal (starting on slide 34 [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing))
+-   Activity 2:  Read mixture modeling article (starting on slide 47 [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing))
+-    
 [Anonymous Feedback Survey](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfU9ffW7Hn0t8OHRGOthOSUqcCvE8p6zMgxVeq0mkvIsbfQzg/viewform?usp=sf_link)
 
 [Pre-Training Day 2 Video]()
@@ -69,7 +73,7 @@ Asynchronous Activity:
 
 ### Day 3 (September 2, 2023): Introduction to Latent Class Analysis
 
-Learning Outcomes:
+#### Learning Outcomes:
 
 1. 
 2.  
@@ -142,6 +146,7 @@ Synchronous Activity:
 -   ADD DESCRIPTION
 
 Asynchronous Activity:
+
 
 -   Watch (and follow along with) [video walkthrough of Git/GitHub workflow using RStudio functionality](https://ucsb.box.com/s/6ud0sdkt7g0zk4k59d77356960haaabn)
 -   Watch, and follow along with a collaboration partner, [video of safely collaborating via GitHub, and also creating then resolving a merge conflict](https://ucsb.box.com/s/ahsgma109ouluclljbf0977llo3d9axf)
