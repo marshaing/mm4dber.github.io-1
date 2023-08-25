@@ -43,7 +43,8 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
  - [HERE - Intro to R video tutorial (Covered in first 7 minutes)](https://drive.google.com/file/d/1jzFAK_bOD2HAjZMyHVG8npYQ0rSOXina/view?usp=drive_link)
 
  - [HERE - Intro to MplusAutomation video tutorial (Covered in first 12 minutes)](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link)
- NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio.
+
+NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio.
     
 
 ### If you need help, drop into office hours. Book an appointment [HERE](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
@@ -99,7 +100,7 @@ Pre-Training Day 3 Video
    1. Identify why it is relevant to use logistic regression in mixture modeling
    2. Understand the relationship between logits, odds ratios, and probabilities in the context of logistic regression
    3. Interpret results of logistic regression
-   4. Identify the importance of multinomial logistic regression in context of LCA (What is it & why do we care?)
+   4. Identify the importance of multinomial logistic regression in the context of LCA (What is it & why do we care?)
 
 
 Preparation:
