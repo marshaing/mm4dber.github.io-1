@@ -35,7 +35,7 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
  - Install Mplus: [HERE](https://www.statmodel.com/orderonline/)   
 
-           You should have received a copy of Mplus for use during the one-year training (requires paid license).
+           You should have received a copy of Mplus for use during the one-year training (requires a paid license).
 
  - Install packages & practice creating Rproject: Watch these tutorial videos which introduce R & Rstudio and walk through how to install and load packages
  - [HERE - Intro to R video tutorial (Covered in first 7 minutes)](https://drive.google.com/file/d/1jzFAK_bOD2HAjZMyHVG8npYQ0rSOXina/view?usp=drive_link)
@@ -45,7 +45,7 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
             - NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio.
    [Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSdi93kIAX4pefUS2sRtGPOPqx9F4sYnx5suDSpLo0G9ZO2U1A/viewform)
 
-##### If you need help, drop into office hour. Book an appointment [HERE](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
+##### If you need help, drop into office hours. Book an appointment [HERE](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
 
 
 ------------------------------------------------------------------------
