@@ -45,12 +45,13 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
  - [HERE - Intro to MplusAutomation video tutorial (Covered in first 12 minutes)](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link)
   
             - NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio.
-   
- 
+    
 
-##### If you need help, drop into office hours. Book an appointment [HERE](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
+### If you need help, drop into office hours. Book an appointment [HERE](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
 
 [Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSdi93kIAX4pefUS2sRtGPOPqx9F4sYnx5suDSpLo0G9ZO2U1A/viewform)
+
+
 Pre-Training Day 1 Video
 
 ------------------------------------------------------------------------
@@ -68,7 +69,7 @@ Pre-Training Day 1 Video
 **Asynchronous Activity:**
 -   Activity 1:  Linking theory to your person-centered research goal (starting on slide 34 [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing))
 -   Activity 2:  Read mixture modeling article (starting on slide 47 [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing))
--    
+   
 [Anonymous Feedback Survey](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfU9ffW7Hn0t8OHRGOthOSUqcCvE8p6zMgxVeq0mkvIsbfQzg/viewform?usp=sf_link)
 
 Pre-Training Day 2 Video
@@ -98,6 +99,7 @@ Asynchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3
     -   [Additional data wrangling: self-guided tour](https://drive.google.com/file/d/1qvNTKrB0eGwprR6sYt9pUeFbB40sl9RE/view?usp=drive_link): Download the zip, follow directions in part three of the homework document.
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSemkITi05PjWKu8k94eCiJ3FkkVmjs0adLFRe4YX4IlGaW1Gw/viewform?usp=sf_link)
+
 Pre-Training Day 3 Video
 
 ------------------------------------------------------------------------
@@ -120,21 +122,19 @@ Asynchronous Activity:
 -   [ADD DESCRIPTION](https://): ADD DESCRIPTION 
 
 
-Pre-Training Day 4 Video
+
 [Anonymous Feedback Survey]([https://](https://docs.google.com/forms/d/e/1FAIpQLSfSQRtVzbaU1nq1guSKkOPZSCSGjK2nGOscDimoOktPRd9qsg/viewform?usp=sf_link))
+
+Pre-Training Day 4 Video
 
 ------------------------------------------------------------------------
 
 ### Day 5 (September 11, 2023): R, RStudio and MplusAutomation
 
-Learning Outcomes:
-
+**Learning Outcomes:**
 1.  Using Mplus software, fellows will learn the basic skeleton of an Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
-
 2.  Using the `MplusAutomation` package, fellows will will be able to run descriptive statistics in R.
-
 3.  This workshop will cover the creation of R-projects and R markdowns and discuss the benefits of organization of the R workflow.
-
 4.  Fellows will have the opportunity to learn how to enhance and customize their R markdowns by applying themes to their documents
 
 Preparation:
@@ -161,9 +161,10 @@ Asynchronous Activity:
         -   [Step-by-step instructions](https://docs.google.com/document/d/1iC0f8VONz269Fm6dVHXeiQuWubNOgOiHjF6oHNBLD-o/edit)
         -   [GitHub Repository of template](https://github.com/allisonhorst/meds-distill-template) ([Here's the README](https://github.com/allisonhorst/meds-distill-template#readme))
 
-[Pre-Training Day 5 Video](https://drive.google.com/file/d/1_uIYvRppsYRsgPBbLqMigiFIqfZJjXxR/view?usp=sharing) 
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSd3FA_3AiiBmoSCPwdQecHMCmK66Au2wJayKTHwSpqkyD1Eyw/viewform?usp=sf_link)
+
+Pre-Training Day 5 Video
 
 ------------------------------------------------------------------------
 
