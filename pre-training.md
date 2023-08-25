@@ -28,46 +28,39 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 * Slide deck [here](https://drive.google.com/file/d/1We8VUg92e3yloXGjLZFDWZuKHz63yHm7/view?usp=drive_link)
 * [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing)
 #### Asynchronous Activity:
- #### Activity 1: Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) slides]
- #### Activity 2: Install R/RStudio/MPlus/MplusAutomation
+#### Activity 1: Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) slides]
+#### Activity 2: Install R/RStudio/MPlus/MplusAutomation
 
  - Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and R Studio.
 
  - Install Mplus: [HERE](https://www.statmodel.com/orderonline/)   
 
-           You should have received a copy of Mplus for use during the one year training (requires paid license).
+           You should have received a copy of Mplus for use during the one-year training (requires paid license).
 
  - Install packages & practice creating Rproject: Watch these tutorial videos which introduce R & Rstudio and walk through how to install and load packages
  - [HERE - Intro to R video tutorial (Covered in first 7 minutes)](https://drive.google.com/file/d/1jzFAK_bOD2HAjZMyHVG8npYQ0rSOXina/view?usp=drive_link)
 
  - [HERE - Intro to MplusAutomation video tutorial (Covered in first 12 minutes)](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link)
   
-            - NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio. 
+            - NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio.
+   [Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSdi93kIAX4pefUS2sRtGPOPqx9F4sYnx5suDSpLo0G9ZO2U1A/viewform)
 
-##### If you need help, drop into office hours ( add calendar link to go to office hours)
+##### If you need help, drop into office hour. Book an appointment [HERE] (https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
 
 
 ------------------------------------------------------------------------
 
 ### Day 2 (September 1, 2023): Introduction to Mixtures
 
-Preparation:
-
-- Make sure you have Mplus, R, and RStudio downloaded and ready to go!
-
-
-
 Synchronous Activity:
-
 -   [Introduction to MplusAutomation]()
 -   Slide deck [here](https://.pdf)
 
 Asynchronous Activity:
-
 -   Complete Part 3 of "Introduction to MplusAutomation": Descriptive Statistics
 -   [How to make your R markdown pretty!]()
 
-[Anonymous Feedback Survey]()
+[Anonymous Feedback Survey](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfU9ffW7Hn0t8OHRGOthOSUqcCvE8p6zMgxVeq0mkvIsbfQzg/viewform?usp=sf_link)
 
 [Pre-Training Day 2 Video]()
 
