@@ -95,7 +95,8 @@ Asynchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3
 -   [Homework, day 3](https://docs.google.com/document/d/114q-eMuRIaFi4eN0dyRF6v0HiES7VFZVGvNn8E8jNMA/edit#)
     -   [Additional data wrangling: self-guided tour](https://drive.google.com/file/d/1qvNTKrB0eGwprR6sYt9pUeFbB40sl9RE/view?usp=drive_link): Download the zip, follow directions in part three of the homework document.
 
-[Pre-Training Day 3 Video](https://drive.google.com/file/d/1iBsERwPVB0dzygkZoWhSRK-loh_JyEZO/view?usp=sharing)
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSemkITi05PjWKu8k94eCiJ3FkkVmjs0adLFRe4YX4IlGaW1Gw/viewform?usp=sf_link)
+[Pre-Training Day 3 Video]()
 
 ------------------------------------------------------------------------
 
