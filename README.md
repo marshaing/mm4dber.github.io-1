@@ -7,15 +7,15 @@
 </p>
 
 
-    Where materials can be found for workshop (i.e., slide-decks, videos, and other resources)
+    Where materials can be found for the workshop (i.e., slide-decks, videos, and other resources)
 
 - - -
 
-## Pre-training materails page: https://mm4dber.github.io/pre-training
+## Pre-training materails page: https://mm4dber.github.io/pre-training (https://mm4dber.github.io/pre-training)
 
 - - -
 
-## Training materails page: https://mm4dber.github.io/training
+## Training materials page: https://mm4dber.github.io/training
 
 - - -
 
