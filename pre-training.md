@@ -19,30 +19,23 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 ------------------------------------------------------------------------
 
 ### Day 1 (August 31, 2023): Introductions, training goals, introduction to mixture modeling
-
 #### Learning Outcomes:
 
-1. Fellows will be able to create a first draft of their research goals that can be addressed with mixture modeling in the upcoming year.
-
-2. Fellows will be able to identify how the MM4DBER training goals and opportunities can help them to apply mixture modeling training to their research goals
-
-
+   1. Identify why research goals and aims (not research questions) are more appropriate for mixture models
+   2. Create a first draft of your equity-focused research goals that can be addressed with mixture modeling
+   3. Identify how the MM4DBERs training goals and opportunities can help you to address your research goals
 #### Synchronous Activity:
-
 * Slide deck [here](https://drive.google.com/file/d/1We8VUg92e3yloXGjLZFDWZuKHz63yHm7/view?usp=drive_link)
 * [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing)
-
 #### Asynchronous Activity:
-
- #### Activity 1: Create a draft of your research goals (starting on slide 20 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) slides]
-
+ #### Activity 1: Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) slides]
  #### Activity 2: Install R/RStudio/MPlus/MplusAutomation
 
  - Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and R Studio.
 
  - Install Mplus: [HERE](https://www.statmodel.com/orderonline/)   
 
-           You should have recieved a copy of Mplus for use during the one year training (requires paid licencse).
+           You should have received a copy of Mplus for use during the one year training (requires paid license).
 
  - Install packages & practice creating Rproject: Watch these tutorial videos which introduce R & Rstudio and walk through how to install and load packages
  - [HERE - Intro to R video tutorial (Covered in first 7 minutes)](https://drive.google.com/file/d/1jzFAK_bOD2HAjZMyHVG8npYQ0rSOXina/view?usp=drive_link)
