@@ -11,11 +11,11 @@
 
 - - -
 
-## Pre-training materials page: [HERE] (https://mm4dber.github.io/pre-training)
+## Pre-training materials page: [HERE](https://mm4dber.github.io/pre-training)
 
 - - -
 
-## Training materials page:  [HERE] (https://mm4dber.github.io/training)
+## Training materials page:  [HERE](https://mm4dber.github.io/training)
 
 - - -
 
