@@ -20,17 +20,18 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
 ### Day 1 (August 31, 2023): Introductions, training goals, introduction to mixture modeling
 #### Learning Outcomes:
-
    1. Identify why research goals and aims (not research questions) are more appropriate for mixture models
    2. Create a first draft of your equity-focused research goals that can be addressed with mixture modeling
    3. Identify how the MM4DBERs training goals and opportunities can help you to address your research goals
+
+      
 #### Synchronous Activity:
 * Slide deck [here](https://drive.google.com/file/d/1We8VUg92e3yloXGjLZFDWZuKHz63yHm7/view?usp=drive_link)
 * [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing)
 
 #### Asynchronous Activity:
-   ##### Activity 1: Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) slides]
-   ##### Activity 2: Install R/RStudio/MPlus/MplusAutomation
+**Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) slides]
+**Activity 2:** Install R/RStudio/MPlus/MplusAutomation
 
  - Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and R Studio.
 
@@ -44,10 +45,13 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
  - [HERE - Intro to MplusAutomation video tutorial (Covered in first 12 minutes)](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link)
   
             - NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio.
-   [Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSdi93kIAX4pefUS2sRtGPOPqx9F4sYnx5suDSpLo0G9ZO2U1A/viewform)
+   
+ 
 
 ##### If you need help, drop into office hours. Book an appointment [HERE](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
 
+[Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSdi93kIAX4pefUS2sRtGPOPqx9F4sYnx5suDSpLo0G9ZO2U1A/viewform)
+Pre-Training Day 1 Video
 
 ------------------------------------------------------------------------
 
@@ -67,17 +71,15 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 -    
 [Anonymous Feedback Survey](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfU9ffW7Hn0t8OHRGOthOSUqcCvE8p6zMgxVeq0mkvIsbfQzg/viewform?usp=sf_link)
 
-[Pre-Training Day 2 Video]()
+Pre-Training Day 2 Video
 
 ------------------------------------------------------------------------
 
 ### Day 3 (September 2, 2023): Introduction to Latent Class Analysis
 
 #### Learning Outcomes:
-
-1. 
-2.  
-3.  
+1. Construct a path diagram for mixture models
+2. Connect research goals and theory to path diagram
 
 Preparation:
 
@@ -96,7 +98,7 @@ Asynchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3
     -   [Additional data wrangling: self-guided tour](https://drive.google.com/file/d/1qvNTKrB0eGwprR6sYt9pUeFbB40sl9RE/view?usp=drive_link): Download the zip, follow directions in part three of the homework document.
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSemkITi05PjWKu8k94eCiJ3FkkVmjs0adLFRe4YX4IlGaW1Gw/viewform?usp=sf_link)
-[Pre-Training Day 3 Video]()
+Pre-Training Day 3 Video
 
 ------------------------------------------------------------------------
 
@@ -118,10 +120,8 @@ Asynchronous Activity:
 -   [ADD DESCRIPTION](https://): ADD DESCRIPTION 
 
 
-[Pre-Training Day 4 Video](https://) 
-
-
-[Anonymous Feedback Survey](https://)
+Pre-Training Day 4 Video
+[Anonymous Feedback Survey]([https://](https://docs.google.com/forms/d/e/1FAIpQLSfSQRtVzbaU1nq1guSKkOPZSCSGjK2nGOscDimoOktPRd9qsg/viewform?usp=sf_link))
 
 ------------------------------------------------------------------------
 
@@ -163,7 +163,7 @@ Asynchronous Activity:
 
 [Pre-Training Day 5 Video](https://drive.google.com/file/d/1_uIYvRppsYRsgPBbLqMigiFIqfZJjXxR/view?usp=sharing) 
 
-[Anonymous Feedback Survey](https://forms.gle/MBjiKoLaHiZYrzPB7)
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSd3FA_3AiiBmoSCPwdQecHMCmK66Au2wJayKTHwSpqkyD1Eyw/viewform?usp=sf_link)
 
 ------------------------------------------------------------------------
 
