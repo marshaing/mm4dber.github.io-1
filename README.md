@@ -21,7 +21,11 @@
 
 ## Additional resources: 
 
-Introduction to Rstudio: https://mm4dber.github.io/Intro_to_rstudio.pdf
+Introduction to Rstudio: https://mm4dber.github.io/Intro-to-Rstudio.html
+
+Introduction to Mplus: https://mm4dber.github.io/Intro-to-Mplus.pdf
+
+Introduction to MplusAutomation: https://mm4dber.github.io/Intro-to-MplusAutomation.html
 
 - - -
 
