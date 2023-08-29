@@ -21,7 +21,7 @@
 
 ## Additional resources: 
 
-Introduction to Rstudio: https://mm4dber.github.io/intro-to-rstudio.pdf
+Introduction to Rstudio: https://mm4dber.github.io/Intro-to-rstudio.pdf
 
 - - -
 
