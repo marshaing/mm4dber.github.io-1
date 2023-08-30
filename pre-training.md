@@ -31,10 +31,11 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 * [Workspace here](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/copy?usp=sharing)
 
 
-#### Asynchronous Activity:
-**Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) 
+**Asynchronous Activity:**
 
-**Activity 2:** Install R/RStudio/MPlus/MplusAutomation
+- **Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) 
+
+- **Activity 2:** Install R/RStudio/MPlus/MplusAutomation
 
  -    Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and R Studio.
 
@@ -65,7 +66,7 @@ Pre-Training Day 1 Video
 
 **Synchronous Activity:**
 -   Slide deck [here](https://drive.google.com/file/d/1cOjV0nwyz7aa0g94B_KD-P7qy78Sc8JG/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing)
+-   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/copy?usp=drive_link)
 
 **Asynchronous Activity:**
 -   Activity 1:  Linking theory to your person-centered research goal (starting on slide 34 [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing))
@@ -84,8 +85,8 @@ Pre-Training Day 2 Video
 2. Connect research goals and theory to a path diagram
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/1PXsBezB8QcQeoTmXtVe7AyLGITzNPXG5/view?usp=drive_link)
--   Workspace [here](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=sharing)
+-   Slide deck [here](https://drive.google.com/file/d/1FiMloutpFxqAftlTFGMz-9u_iiPFHQZR/view?usp=sharing)
+-   Workspace [here](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/copy?usp=drive_l)
 
 **Asynchronous Activity:**
 
@@ -104,12 +105,11 @@ Pre-Training Day 3 Video
    4. Identify the importance of multinomial logistic regression in the context of LCA (What is it & why do we care?)
 
 
-Preparation:
-
-- ADD DESCRIPTION 
-- ADD DESCRIPTION 
-
-Asynchronous Activity:
+**Synchronous Activity:**
+-   Slide deck [here](https://drive.google.com/file/d/1cOjV0nwyz7aa0g94B_KD-P7qy78Sc8JG/view?usp=sharing)
+-   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/copy?usp=drive_link)
+    
+**Asynchronous Activity:**
 
 -   [ADD DESCRIPTION](https://): ADD DESCRIPTION 
 
@@ -133,7 +133,12 @@ Preparation:
 
 -   Work through the [Intro to R and R Studio tutorial](https://immerse-ucsb.github.io/intro_to_rstudio.pdf) if not already done, including installing R and R Studio.
 -   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
+-   
+**Synchronous Activity:**
+-   Slide deck [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/copy?usp=sharing)
+-   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/copy?usp=drive_link)
 
+  
 Synchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3_wrangling_practice)):
   
 -   Discussion of benefits and challenges of coding, reproducible research, and collaboration (__[Google slides](https://docs.google.com/presentation/d/1T8RJgWfpQgzCnsypcQu8DNHy2edFid3TJCQ51ZFElvQ/edit?usp=drive_link)__)
