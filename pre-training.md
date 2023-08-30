@@ -138,8 +138,11 @@ Preparation:
 -   Slide deck [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/copy?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/copy?usp=drive_link)
 
-  
-Synchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3_wrangling_practice)):
+In-class activity links: 
+- [GitHub repo here: Data, Files, Scripts](https://github.com/MM4DBER/Pre-training-Day5)
+- [Introduction to Rstudio Handout](https://mm4dber.github.io/Intro-to-Rstudio.html)
+- [Introduction to Mplus Handout](https://mm4dber.github.io/Intro-to-Mplus.html)
+- [Introduction to MplusAutomation Handout](https://mm4dber.github.io/Intro-to-MplusAutomation.html)
   
 -   Discussion of benefits and challenges of coding, reproducible research, and collaboration (__[Google slides](https://docs.google.com/presentation/d/1T8RJgWfpQgzCnsypcQu8DNHy2edFid3TJCQ51ZFElvQ/edit?usp=drive_link)__)
 -   Live coding: data wrangling with categorical data (__[.Rmd](https://drive.google.com/file/d/1b2TWYCpviBxvwEKTGE_jCZQcMI4xy3-S/view?usp=drive_link)__ |  __[.pdf](https://drive.google.com/file/d/1Oui-iDov81cVFf31dwSQErmElLAdL2l7/view?usp=drive_link)__)
