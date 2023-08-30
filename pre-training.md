@@ -64,7 +64,7 @@ Pre-Training Day 1 Video
    2. Construct a person-centered research goal in a research topic that you are interested in   
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/1ZsU5MgAqPkFtYG_NXj8cDR01TF9X5ZkI/view?usp=drive_link)
+-   Slide deck [here](https://drive.google.com/file/d/1cOjV0nwyz7aa0g94B_KD-P7qy78Sc8JG/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing)
 
 **Asynchronous Activity:**
