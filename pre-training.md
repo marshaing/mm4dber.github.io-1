@@ -40,13 +40,13 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 -    Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and R Studio.
 
  - Install Mplus: [HERE](https://www.statmodel.com/orderonline/)
+ - Install MplusAutomation: [HERE](https://cran.r-project.org/web/packages/MplusAutomation/readme/README.html)
  - Note: You should have received a copy of Mplus for use during the one-year training (requires a paid license).
  
 
  - Install packages & practice creating Rproject: Watch these tutorial videos which introduce R & Rstudio and walk through how to install and load packages
  - [HERE - Intro to R video tutorial (Covered in first 7 minutes)](https://drive.google.com/file/d/1jzFAK_bOD2HAjZMyHVG8npYQ0rSOXina/view?usp=drive_link)
  - [HERE - Intro to MplusAutomation video tutorial (Covered in first 12 minutes)](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link)
-- [MplusAutomation](https://cran.r-project.org/web/packages/MplusAutomation/readme/README.html)
   
 NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio.
     
