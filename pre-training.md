@@ -37,7 +37,7 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
 - **Activity 2:** Install R/RStudio/MPlus/MplusAutomation
 
--    Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and R Studio.
+-    Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and RStudio.
 
  - Install Mplus: [HERE](https://www.statmodel.com/orderonline/)
  - Install MplusAutomation: [HERE](https://cran.r-project.org/web/packages/MplusAutomation/readme/README.html)
@@ -108,7 +108,7 @@ Pre-Training Day 3 Video
 
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/1cOjV0nwyz7aa0g94B_KD-P7qy78Sc8JG/view?usp=sharing)
+-   Slide deck [here](https://drive.google.com/file/d/1wK2TG3IP7LvWyOtdTlfkiHIAtzzeL0bp/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
     
 
@@ -129,11 +129,11 @@ Pre-Training Day 4 Video
 
 Preparation:
 
--   Work through the [Intro to R and R Studio tutorial](https://immerse-ucsb.github.io/intro_to_rstudio.pdf) if not already done, including installing R and R Studio.
+-   Work through the [Intro to R and RStudio tutorial](https://immerse-ucsb.github.io/intro_to_rstudio.pdf) if not already done, including installing R and RStudio.
 -   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
   **Synchronous Activity:**
--   Slide deck [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/copy?usp=sharing)
+-   Slide deck [here]()
 -   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
 
 
