@@ -76,7 +76,7 @@ Pre-Training Day 1 Video
    
 [Anonymous Feedback Survey: Day 2](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfU9ffW7Hn0t8OHRGOthOSUqcCvE8p6zMgxVeq0mkvIsbfQzg/viewform?usp=sf_link)
 
-Pre-Training Day 2 Video
+[Pre-Training Day 2 Video]()
 
 ------------------------------------------------------------------------
 
