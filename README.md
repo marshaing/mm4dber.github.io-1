@@ -17,15 +17,6 @@
 
 ## Training materials page:  [HERE](https://mm4dber.github.io/training)
 
-- - -
-
-## Additional resources: 
-
-Introduction to Rstudio: [HERE](https://mm4dber.github.io/Intro-to-Rstudio.html)
-
-Introduction to Mplus: [HERE](https://mm4dber.github.io/Intro-to-Mplus.html)
-
-Introduction to MplusAutomation: [HERE](https://mm4dber.github.io/Intro-to-MplusAutomation.html)
 
 - - -
 
