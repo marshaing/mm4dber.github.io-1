@@ -28,7 +28,7 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
       
 #### Synchronous Activity:
 * [Slide deck here](https://drive.google.com/file/d/1NZ8Cl9wene_leR_N6J5-fAF1nFINmDfV/view?usp=sharing)
-* [Workspace here](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/copy?usp=sharing)
+* [Workspace here](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing)
 
 
 **Asynchronous Activity:**
@@ -66,7 +66,7 @@ Pre-Training Day 1 Video
 
 **Synchronous Activity:**
 -   Slide deck [here](https://drive.google.com/file/d/1cOjV0nwyz7aa0g94B_KD-P7qy78Sc8JG/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/copy?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=drive_link)
 
 **Asynchronous Activity:**
 -   Activity 1:  Linking theory to your person-centered research goal (starting on slide 34 [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing))
@@ -86,7 +86,7 @@ Pre-Training Day 2 Video
 
 **Synchronous Activity:**
 -   Slide deck [here](https://drive.google.com/file/d/1FiMloutpFxqAftlTFGMz-9u_iiPFHQZR/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/copy?usp=drive_l)
+-   Workspace [here](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=drive_l)
 
 **Asynchronous Activity:**
 
@@ -107,7 +107,7 @@ Pre-Training Day 3 Video
 
 **Synchronous Activity:**
 -   Slide deck [here](https://drive.google.com/file/d/1cOjV0nwyz7aa0g94B_KD-P7qy78Sc8JG/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/copy?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
     
 
 
@@ -132,7 +132,7 @@ Preparation:
 -   
 **Synchronous Activity:**
 -   Slide deck [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/copy?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/copy?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
 
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSd3FA_3AiiBmoSCPwdQecHMCmK66Au2wJayKTHwSpqkyD1Eyw/viewform?usp=sf_link)
@@ -144,7 +144,7 @@ Pre-Training Day 5 Video
 Helpful Links:
 
 -   Please [visit our website](https://mm4dbers.education.ucsb.edu/) to learn more.
--   Visit our [GitHub](https://github.com/MM4DBER/mm4dber.github.io) account to access all the IMMERSE materials.
+-   Visit our [GitHub](https://github.com/MM4DBER/mm4dber.github.io) account to access all the MM4DBER materials.
 -   Follow us on [Twitter](https://twitter.com/mm4dbers)!
 
 ------------------------------------------------------------------------
