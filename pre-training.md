@@ -58,7 +58,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 Pre-Training Day 1 Video
 
-"Parking Lot" document with questions and answers [HERE] (https://docs.google.com/document/d/1z03OZAadBO7o2oAV9QtbCricSdPopCwNOV5lXmqziXY/edit?usp=sharing)
+"Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1z03OZAadBO7o2oAV9QtbCricSdPopCwNOV5lXmqziXY/edit?usp=sharing)
 
 
 ------------------------------------------------------------------------
