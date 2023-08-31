@@ -24,10 +24,8 @@ Preparation: Make sure you have...
 
 #### Learning Outcomes:
 
-1. Fellows will be introduced to the the LCA model
-
-2. Fellows will be able to...
-
+1. Fellows will understand the latent class model parameters
+2. Fellows will know the important model parameters of the LCA model and their interpretation
 
 #### Synchronous Activity:
 
@@ -151,7 +149,7 @@ Helpful Links:
 
 -   Please [visit our website](https://mm4dbers.education.ucsb.edu/) to learn more.
 
--   Visit our [GitHub](https://github.com/MM4DBER/mm4dber.github.io) account to access all the IMMERSE materials.
+-   Visit our [GitHub](https://github.com/MM4DBER/mm4dber.github.io) account to access all the MM4DBER materials.
 
 -   Follow us on [Twitter](https://twitter.com/mm4dbers)!
 
