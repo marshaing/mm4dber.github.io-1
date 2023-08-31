@@ -109,10 +109,6 @@ Pre-Training Day 3 Video
 -   Slide deck [here](https://drive.google.com/file/d/1cOjV0nwyz7aa0g94B_KD-P7qy78Sc8JG/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/copy?usp=drive_link)
     
-**Asynchronous Activity:**
-
--   [ADD DESCRIPTION](https://): ADD DESCRIPTION 
-
 
 
 [Anonymous Feedback Survey]([https://](https://docs.google.com/forms/d/e/1FAIpQLSfSQRtVzbaU1nq1guSKkOPZSCSGjK2nGOscDimoOktPRd9qsg/viewform?usp=sf_link))
@@ -137,34 +133,6 @@ Preparation:
 **Synchronous Activity:**
 -   Slide deck [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/copy?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/copy?usp=drive_link)
-
-In-class activity links: 
-- [GitHub repo here: Data, Files, Scripts](https://github.com/MM4DBER/Pre-training-Day5)
-- [Introduction to Rstudio Handout](https://mm4dber.github.io/Intro-to-Rstudio.html)
-- [Introduction to Mplus Handout](https://mm4dber.github.io/Intro-to-Mplus.html)
-- [Introduction to MplusAutomation Handout](https://mm4dber.github.io/Intro-to-MplusAutomation.html)
-  
--   Discussion of benefits and challenges of coding, reproducible research, and collaboration (__[Google slides](https://docs.google.com/presentation/d/1T8RJgWfpQgzCnsypcQu8DNHy2edFid3TJCQ51ZFElvQ/edit?usp=drive_link)__)
--   Live coding: data wrangling with categorical data (__[.Rmd](https://drive.google.com/file/d/1b2TWYCpviBxvwEKTGE_jCZQcMI4xy3-S/view?usp=drive_link)__ |  __[.pdf](https://drive.google.com/file/d/1Oui-iDov81cVFf31dwSQErmElLAdL2l7/view?usp=drive_link)__)
-    -   [Set up RStudio workspace in global options](https://docs.google.com/document/d/1xnIJ8maW_yHn-vYFba6AhULMMLplIGjJQuIM2iqmpDw/edit#heading=h.k5zbnx9cqbgj)
-
-
-Asynchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3_more_wrangling)):
-
--   [Activity 1, day 3](https://docs.google.com/document/d/114q-eMuRIaFi4eN0dyRF6v0HiES7VFZVGvNn8E8jNMA/edit#)
--   [Additional data wrangling: self-guided tour](https://drive.google.com/file/d/1qvNTKrB0eGwprR6sYt9pUeFbB40sl9RE/view?usp=drive_link): Download the zip, follow directions in part three of the homework document.
-
--   Watch (and follow along with) [video walkthrough of Git/GitHub workflow using RStudio functionality](https://ucsb.box.com/s/6ud0sdkt7g0zk4k59d77356960haaabn)
--   Watch, and follow along with a collaboration partner, [video of safely collaborating via GitHub, and also creating then resolving a merge conflict](https://ucsb.box.com/s/ahsgma109ouluclljbf0977llo3d9axf)
-    -   Follow along with the [instructions here](https://docs.google.com/document/d/1E5ZoOAcHm2HTlT_M-SsIXTKv-_ptfS9isBPCBg61OTQ/edit#heading=h.pt2xpdnxfu60)
-    -   As part of the instructions, you'll need to download [this file](https://drive.google.com/file/d/1L4Ks4U4l8Zw821SUWoWSKN8Jd8F7yi9R/view?usp=drive_link) and put it in a newly created R project
--   GitHub Pages - build a website using R/RStudio and GitHub - try one, or both, whichever suits your needs and preferences!
-    -   Personal site using `distill` and `postcards`: 
-        -   Follow the instructions in [this blog post from Alison Hill](https://www.apreshill.com/blog/2020-12-postcards-distill/) 
-        -   Follow carefully, and every time you modify anything in a `.yml` file or YAML header, be VERY CAREFUL about the spacing and indents!
-    -   Course site based on Allison Horst's template for the UCSB MEDS program:
-        -   [Step-by-step instructions](https://docs.google.com/document/d/1iC0f8VONz269Fm6dVHXeiQuWubNOgOiHjF6oHNBLD-o/edit)
-        -   [GitHub Repository of template](https://github.com/allisonhorst/meds-distill-template) ([Here's the README](https://github.com/allisonhorst/meds-distill-template#readme))
 
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSd3FA_3AiiBmoSCPwdQecHMCmK66Au2wJayKTHwSpqkyD1Eyw/viewform?usp=sf_link)
