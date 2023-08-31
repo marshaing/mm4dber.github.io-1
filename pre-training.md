@@ -35,7 +35,7 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
 - **Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) 
 
-- **Activity 2:** Install R/RStudio/MPlus/MplusAutomation
+- **Activity 2:** Install: R, RStudio, MPlus, MplusAutomation, R-packages
 
 -    Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and RStudio.
 
