@@ -56,7 +56,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 [Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSdi93kIAX4pefUS2sRtGPOPqx9F4sYnx5suDSpLo0G9ZO2U1A/viewform)
 
 
-Pre-Training Day 1 Video
+Pre-Training Day 1: [Video HERE](https://drive.google.com/file/d/1up3venhsXZ-6_qGmUpPAkle4mJx83ZLP/view?usp=sharing)
 
 "Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1z03OZAadBO7o2oAV9QtbCricSdPopCwNOV5lXmqziXY/edit?usp=sharing)
 
