@@ -90,7 +90,7 @@ Pre-Training Day 1: [Video HERE](https://drive.google.com/file/d/1up3venhsXZ-6_q
 2. Connect research goals and theory to a path diagram
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/1FiMloutpFxqAftlTFGMz-9u_iiPFHQZR/view?usp=sharing)
+-   Updated Slide deck [here](https://drive.google.com/file/d/1G4hfqPo_pO75deIp-U2ST-E0I8H2NVUu/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=drive_l)
 
 **Asynchronous Activity:**
