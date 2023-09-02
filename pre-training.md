@@ -94,6 +94,10 @@ Pre-Training Day 1: [Video HERE](https://drive.google.com/file/d/1up3venhsXZ-6_q
 -   Workspace [here](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=drive_l)
 
 **Asynchronous Activity:**
+1. Read mixture modeling artice from Day 2, activity 2. Using the [workspace slide deck](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=drive_l), answer questions related to the article. We will discuss these at the start of day 4.
+2. To help with the review of logistic regression, watch these videos:
+   -add video
+   
 
 [Anonymous Feedback Survey: Day 3](https://docs.google.com/forms/d/e/1FAIpQLSemkITi05PjWKu8k94eCiJ3FkkVmjs0adLFRe4YX4IlGaW1Gw/viewform?usp=sf_link)
 
