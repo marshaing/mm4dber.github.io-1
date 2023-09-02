@@ -70,7 +70,7 @@ Pre-Training Day 1: [Video HERE](https://drive.google.com/file/d/1up3venhsXZ-6_q
    2. Construct a person-centered research goal in a research topic that you are interested in   
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/163CHSSS-1CxQH_8iBUyMLzGtjJakFQjh/view?usp=sharing)
+-   Slide deck [here](https://drive.google.com/file/d/1FiMloutpFxqAftlTFGMz-9u_iiPFHQZR/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=drive_link)
 
 **Asynchronous Activity:**
